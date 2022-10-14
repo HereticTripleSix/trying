@@ -1,0 +1,36 @@
+.lol1{
+    display: flex;
+    justify-items: space-between;
+}
+
+
+
+
+
+
+a.test1{
+text-decoration: none;
+font-size: 50px;
+background: green;
+border: 2px solid purple;
+cursor: pointer;
+color: blue;
+width: 25%;
+margin: 20px;
+text-align:center;
+height: 300px;
+overflow: hidden;
+word-break: break-all;
+padding: 10px 10px;
+}
+
+
+a.test1:hover{
+    background-color: aqua;
+    color: purple;
+    transition-delay: 0.5ms;
+    transition-duration: 0.5s;
+    transition-property: all;
+    }
+
+    
